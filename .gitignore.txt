@@ -1,0 +1,9 @@
+# Ignorer l'environnement virtuel
+env/
+
+# Ignorer la base de données
+utilisateurs.db
+
+# Ignorer les fichiers temporaires Python
+__pycache__/
+*.pyc
